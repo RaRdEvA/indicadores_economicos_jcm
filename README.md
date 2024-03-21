@@ -19,4 +19,5 @@ El token de Banxico se obtiene desde:
 
 ## Referencias
 
-Se obtuvieron ejemplos de [Ana Jiménez](https://www.linkedin.com/in/anajptrader/) en [linkedin](https://www.linkedin.com/posts/anajptrader_descarga-series-del-inegi-con-su-api-python-activity-7118645253913358336-1dTn/).
+- Se obtuvieron ejemplos de [Ana Jiménez](https://www.linkedin.com/in/anajptrader/) en [linkedin](https://www.linkedin.com/posts/anajptrader_descarga-series-del-inegi-con-su-api-python-activity-7118645253913358336-1dTn/).
+- Las inflación se descubrió posteriormente que sí está en el INEGI en otro banco: [Banco de Información Económica](http://en.www.inegi.org.mx/app/indicadores/?tm=0)
